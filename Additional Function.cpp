@@ -67,7 +67,7 @@ public:
                 return true;
             }
         }
-        cout<<"Main function isn't correct";
+        cout<<"Main function isn't correct ";
         return false;
     }
 };
